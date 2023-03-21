@@ -1,0 +1,11 @@
+select
+{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+}
+.reset
+{
+    position: relative;
+    left: -7px;
+}

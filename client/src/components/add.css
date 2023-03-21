@@ -1,0 +1,29 @@
+.rr
+{
+    width: 40px;
+    height: 30px;
+}
+.reset
+{
+    width: 40px;
+    height: 30px;
+}
+.re
+{
+    margin-top: 10px;
+}
+.data1
+{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+}
+.data2
+{
+    height: 30px;
+    width: 250px;
+    position: relative;
+    left:-13px;
+    border-radius: 5px;
+    float: right;
+}

@@ -1,0 +1,49 @@
+html
+{
+    padding: 0px;
+    margin: 0px;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+#tst
+{
+    height: 50px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+    color: aqua;
+    font-size: 18px;
+    cursor: pointer;
+}
+#tst > div > div:hover
+{
+    color:BLUE;
+}
+#tst > p
+{
+ font-style: italic;
+ font-size: 32px;
+ position: relative;
+ top:-30px;
+ margin-left: 15px;
+}
+#smtst
+{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    align-items: center;
+    white-space:nowrap;
+}
+.tt
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
