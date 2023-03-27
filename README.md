@@ -1,5 +1,5 @@
 # REST-API-CRUD
-## Used Languages Frameworks and Liberies
+## Used Languages Frameworks and Libaries
 - Frontend:
   - React
     - Material UI
